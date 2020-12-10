@@ -1,0 +1,13 @@
+{
+  "name": "knigntstravails",
+  "version": "1.0.0",
+  "description": "",
+  "esversion": 6,
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
